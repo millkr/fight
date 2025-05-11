@@ -1,8 +1,8 @@
 function Calc() {
     const a = 3;
     const b = 20;
-    console.log(a + b);
+    console.log((a + b) * 2);
   }
   
-  Calc();
+  Calc(); 
   
